@@ -5,6 +5,8 @@ And, by continually improving the median margin of error (from 14% at the onset 
 
 Submissions are evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as logerror=log(Zestimate)−log(SalePrice) and it is recorded in the transactions training data.
 
+Dataset is reported through PandasProfilingReport because is too big for github.
+
 File descriptions:
 
 properties_2016.csv - all the properties with their home features for 2016.

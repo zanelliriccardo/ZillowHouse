@@ -24,4 +24,4 @@ Performance:
 
 MAE : 0.07507 
 
-In order to have a comparison, this is performance of 1st in leaderboard: 0.07408
+In order to have a comparison, 0.07408 is performance of 1st in the standings.

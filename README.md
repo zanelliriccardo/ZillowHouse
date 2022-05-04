@@ -20,3 +20,8 @@ train_2017.csv - the training set with transactions from 1/1/2017 to 9/15/2017.
 zillow_data_dictionary.xlsx - features meaning
 
 
+Performance:
+
+MAE : 0.07507 
+
+In order to have a comparison, this is performance of 1st in leaderboard: 0.07408

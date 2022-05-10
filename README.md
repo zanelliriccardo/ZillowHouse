@@ -7,6 +7,9 @@ And, by continually improving the median margin of error (from 14% at the onset 
 
 Submissions are evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as logerror=log(Zestimate)−log(SalePrice) and it is recorded in the transactions training data.
 
+# What do you find in this repository:
+Notebook with preprocessing using sklearn Pipeline, regression and boosting models and, finally, an explainability part using ICE plots, SHAP and some other tecnique in order to have some insights of boosting models.
+
 Datasets are reported through PandasProfilingReport because they are too big for github.
 
 File descriptions:

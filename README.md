@@ -2,6 +2,8 @@
 
 ![zillow](zillow_example.png)
 
+![Kaggle Challenge](https://www.kaggle.com/c/zillow-prize-1)
+
 “Zestimates” are estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on each property. 
 And, by continually improving the median margin of error (from 14% at the onset to 5% today), Zillow has since become established as one of the largest, most trusted marketplaces for real estate information in the U.S. and a leading example of impactful machine learning.
 
@@ -29,4 +31,5 @@ Performance:
 
 MAE : 0.07507 
 
+Top 3%.
 In order to have a comparison, 0.07408 is performance of 1st in the standings.

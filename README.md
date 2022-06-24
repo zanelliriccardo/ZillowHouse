@@ -7,7 +7,7 @@
 “Zestimates” are estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on each property. 
 And, by continually improving the median margin of error (from 14% at the onset to 5% today), Zillow has since become established as one of the largest, most trusted marketplaces for real estate information in the U.S. and a leading example of impactful machine learning.
 
-Submissions are evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as logerror=log(Zestimate)−log(SalePrice) and it is recorded in the transactions training data.
+Submissions are evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as logerror=log(Zestimate)−log(SalePrice) and it is recorded in the transactions training data. Competition is 5 years old, I did it just for fun.
 
 # What do you find in this repository:
 Notebook with preprocessing using sklearn Pipeline, regression and boosting models and, finally, an explainability part using ICE plots, SHAP and some other tecnique in order to have some insights of boosting models.
